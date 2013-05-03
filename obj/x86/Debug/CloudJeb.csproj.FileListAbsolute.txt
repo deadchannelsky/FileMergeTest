@@ -1,0 +1,2 @@
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.exe
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.pdb

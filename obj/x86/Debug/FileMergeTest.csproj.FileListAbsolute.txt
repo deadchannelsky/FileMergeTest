@@ -1,0 +1,13 @@
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.Form1.resources
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.Properties.Resources.resources
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\bin\Debug\FileMergeTest.exe
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\bin\Debug\FileMergeTest.pdb
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.exe
+c:\users\jason.tyler\documents\visual studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.pdb
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\bin\Debug\FileMergeTest.exe.manifest
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\bin\Debug\FileMergeTest.application
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.exe.manifest
+C:\Users\jason.tyler\Documents\Visual Studio 2010\Projects\FileMergeTest\FileMergeTest\obj\x86\Debug\FileMergeTest.application
